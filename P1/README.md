@@ -17,6 +17,6 @@ Desk research
 ![Persona 1]("P1/Persona #1.png")
 Persona 1 - Martin Williams
 
-![Persona 2]("P2/Persona #2.png")
+![Persona 2]("P1/Persona #2.png")
 Persona 2 - 
 
