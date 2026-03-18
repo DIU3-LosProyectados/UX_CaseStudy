@@ -21,7 +21,8 @@ Desk research
 Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
 
 ![Persona 1](./Persona1.png)
-Persona 1 - Martin Williams
+![Journey Map 1](./journey_map_MW.jpg)
+Persona 1 - Martin Williams: un turista británico que se dedica a la mecánica, que se encuentra en Granada de vacaciones y decide, por recomendación de un amigo, pedir una hamburguesa mediante la página web de Goiko. Junto a la descripción de la persona se encuentra su Journey Map junto con los sentimientos asociados a cada una de sus acciones mientras visita la página.
 
 ## Usability Review
 A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma, poca preocupación por nuevos usuarios e información colocada de forma poco clara. Todo esto se ve reflejado en el usability review, donde se explican y se evalúan distitnos puntos acerca de la usabilidad de la interfaz de la página.
