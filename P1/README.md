@@ -14,7 +14,7 @@ En esta práctica nos centramos en valorar la experiencia de usuario de la pági
 
 Para ello, hemos llevado a cabo un proceso de investigación donde comparamos distintos aspectos de la interfaz con otras cadenas de hamburguesas como Burger King o Mostaza Green, donde hemos observado una posibilidad de mejora en la gestión de la información por parte de Goiko.
 
-![Desk Research](/"Competitor Analysis [DIU23] (Copy).png")
+![Desk Research](/"Competitor_Analysis.png")
 Desk research
 
 Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
