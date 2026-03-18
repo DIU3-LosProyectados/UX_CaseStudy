@@ -20,9 +20,14 @@ Desk research
 ## Personas
 Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
 
+### Persona 1-Martin Williams
 ![Persona 1](./Persona1.png)
 ![Journey Map 1](./journey_map_MW.jpg)
 Persona 1 - Martin Williams: un turista británico que se dedica a la mecánica, que se encuentra en Granada de vacaciones y decide, por recomendación de un amigo, pedir una hamburguesa mediante la página web de Goiko. Junto a la descripción de la persona se encuentra su Journey Map junto con los sentimientos asociados a cada una de sus acciones mientras visita la página, en este caso, vemos como su frustración aumenta a medida que la página no se ajusta a su idioma y no le permite pedir, provocando su abandono y pérdida del cliente.
+
+
+### Persona 2-Francisco Ramírez
+![Persona 2](./Persona2yJourneyMap.pdf)
 
 ## Usability Review
 [Usability Review](./Usability-review-template)
