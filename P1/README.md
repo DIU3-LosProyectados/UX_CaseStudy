@@ -11,16 +11,18 @@
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 En esta práctica nos centramos en valorar la experiencia de usuario de la página de Goiko (www.Goiko.com), evaluando si ofrece una buena experiencia en el sector de la experiencia street food gourmet.
-
+## Desk Research
 Para ello, hemos llevado a cabo un proceso de investigación donde comparamos distintos aspectos de la interfaz con otras cadenas de hamburguesas como Burger King o Mostaza Green, donde hemos observado una posibilidad de mejora en la gestión de la información por parte de Goiko.
 
 ![Desk Research](/"Competitor_Analysis.png")
 Desk research
 
+##Personas
 Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
 
 ![Persona 1]("/Persona1.png")
 Persona 1 - Martin Williams
 
+##Usability Review
 A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma, poca preocupación por nuevos usuarios e información colocada de forma poco clara. Todo esto se ve reflejado en el usability review, donde se explican y se evalúan distitnos puntos acerca de la usabilidad de la interfaz de la página.
 
