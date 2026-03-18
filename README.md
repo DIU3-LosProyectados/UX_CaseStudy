@@ -73,7 +73,7 @@ Miembros y nombre del equipo:
 -----
 
 Se ha realizado un estudio comparando Goiko con las páginas de Burger King y Mostaza Green para notar los puntos fuertes y debilidades de Goiko y su interfaz.
-![ompetitive analysis]("P1/Competitor_Analysis.png")
+![Competitive analysis]("P1/Competitor_Analysis.png")
 
 
 ### 1.c Personas
