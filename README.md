@@ -82,7 +82,7 @@ Se ha realizado un estudio comparando Goiko con las páginas de Burger King y Mo
 
 Hemos creado dos Personas:
 
-La primera es Martin Williams, un turista británico que pide por la web en su hotel:
+La primera es Martin Williams, un turista británico que quiere pedir una hamburguesa por la web de Goiko en su hotel:
 
 ![Persona1]("P1/Persona1.png")
 
