@@ -36,6 +36,7 @@ Descripción:
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo DIU](/logotipo_diu_reduced.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat:     
@@ -60,6 +61,7 @@ Miembros y nombre del equipo:
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
+
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
@@ -71,29 +73,35 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Se ha realizado un estudio comparando Goiko con las páginas de Burger King y Mostaza Green para notar los puntos fuertes y debilidades de Goiko y su interfaz.
+![Competitive analysis](./P1/Competitor_Analysis.png)
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Hemos creado dos Personas:
+
+La primera es Martin Williams, un turista británico que quiere pedir una hamburguesa por la web de Goiko en su hotel:
+
+![Persona1](P1/Persona1.png)
 
 
-### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+### 1.d User Journey Map 
 ----
+![Método UX](img/JourneyMap.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+En el primer Journey Map, Martin Williams intenta pedir una hamburguesa en la página, falla por distintos problemas relacionados a la gestión de los idiomas de la página, haciendo que se frustre poco a poco. Esta puede ser una situación bastante habitual entre los turistas.
+
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
+Hemos evaluado y revisado distintos apartados de la usabilidad de la interfaz de goiko, recogidos en el documento del usability review:
+>>> - Enlace al documento:  [](./P1/Usability-review-template-Usability scores.pdf)
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
 

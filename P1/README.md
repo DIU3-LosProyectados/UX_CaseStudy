@@ -11,16 +11,19 @@
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 En esta práctica nos centramos en valorar la experiencia de usuario de la página de Goiko (www.Goiko.com), evaluando si ofrece una buena experiencia en el sector de la experiencia street food gourmet.
-
+## Desk Research | Competition Analysis
 Para ello, hemos llevado a cabo un proceso de investigación donde comparamos distintos aspectos de la interfaz con otras cadenas de hamburguesas como Burger King o Mostaza Green, donde hemos observado una posibilidad de mejora en la gestión de la información por parte de Goiko.
 
-![Desk Research](/"Competitor Analysis [DIU23] (Copy).png")
+![Desk Research](./Competitor_Analysis.png)
 Desk research
 
+## Personas
 Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
 
-![Persona 1]("/Persona #1.png")
-Persona 1 - Martin Williams
+![Persona 1](./Persona1.png)
+![Journey Map 1](./journey_map_MW.jpg)
+Persona 1 - Martin Williams: un turista británico que se dedica a la mecánica, que se encuentra en Granada de vacaciones y decide, por recomendación de un amigo, pedir una hamburguesa mediante la página web de Goiko. Junto a la descripción de la persona se encuentra su Journey Map junto con los sentimientos asociados a cada una de sus acciones mientras visita la página, en este caso, vemos como su frustración aumenta a medida que la página no se ajusta a su idioma y no le permite pedir, provocando su abandono y pérdida del cliente.
 
-A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma e información colocada de forma poco clara.
+## Usability Review
+A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma, poca preocupación por nuevos usuarios (no se implementa ayuda explícita para ayudar a aquellos poco familiarizados con la interfaz, sobre todo teniendo en cuenta la sobrecarga de animaciones y efectos de la página) e información colocada de forma poco clara. Todo esto se ve reflejado en el usability review, donde se explican y se evalúan distitnos puntos acerca de la usabilidad de la interfaz de la página.
 
