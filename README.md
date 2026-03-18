@@ -99,7 +99,7 @@ En el primer Journey Map, Martin Williams intenta pedir una hamburguesa en la p�
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-
+![Usability Review](./P1/Usabiility-review-template)
 Hemos evaluado y revisado distintos apartados de la usabilidad de la interfaz de goiko, recogidos en el documento del usability review:
 >>> - Enlace al documento:  [](./P1/Usability-review-template-Usability scores.pdf)
 >>> - URL y Valoración numérica obtenida: 
