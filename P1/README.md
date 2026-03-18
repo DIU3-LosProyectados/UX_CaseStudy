@@ -6,10 +6,6 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
-
 En esta práctica nos centramos en valorar la experiencia de usuario de la página de Goiko (www.Goiko.com), evaluando si ofrece una buena experiencia en el sector de la experiencia street food gourmet.
 ## Desk Research | Competition Analysis
 Para ello, hemos llevado a cabo un proceso de investigación donde comparamos distintos aspectos de la interfaz con otras cadenas de hamburguesas como Burger King o Mostaza Green, donde hemos observado una posibilidad de mejora en la gestión de la información por parte de Goiko.
