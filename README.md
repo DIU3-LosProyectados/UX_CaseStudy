@@ -36,6 +36,7 @@ Descripción:
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo DIU](/logotipo_diu_reduced.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat:     
