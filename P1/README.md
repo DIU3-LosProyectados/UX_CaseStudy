@@ -14,7 +14,7 @@ Para ello, hemos llevado a cabo un proceso de investigación donde comparamos di
 Desk research
 
 ## Personas
-Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es
+Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que puedan revelarnos situaciones más o menos comunes que puedan llegar a suponer problemas a la hora de manejar la información en nuestra interfaz. La primera persona es un turista británico que busca pedir su comida en otro idioma, revelando distintos problemas respecto a la gestión de los lenguajes dentro de la página. Mientras que nuestra segunda persona es Francisco Ramirez, un señor de 47 años con muy poca experiencia en el ámbito tecnológico que pretende realizar el cumpleaños de su hijo en un restaurante Goiko, perdiéndose en las opciones y no siendo capaz de encontrar la información necesaria por su cuenta, revelando problemas en la gestión y organización de la información en la página.
 
 ### Persona 1-Martin Williams
 ![Persona 1](./Persona1.png)
