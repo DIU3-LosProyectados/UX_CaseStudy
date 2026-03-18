@@ -22,5 +22,5 @@ Hemos creado dos "Personas" que pretenden emular a dos posibles usuarios que pue
 ![Persona 1]("/Persona1.png")
 Persona 1 - Martin Williams
 
-A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma e información colocada de forma poco clara.
+A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma, poca preocupación por nuevos usuarios e información colocada de forma poco clara. Todo esto se ve reflejado en el usability review, donde se explican y se evalúan distitnos puntos acerca de la usabilidad de la interfaz de la página.
 
