@@ -11,7 +11,7 @@
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
 En esta práctica nos centramos en valorar la experiencia de usuario de la página de Goiko (www.Goiko.com), evaluando si ofrece una buena experiencia en el sector de la experiencia street food gourmet.
-## Desk Research
+## Desk Research | Competition Analysis
 Para ello, hemos llevado a cabo un proceso de investigación donde comparamos distintos aspectos de la interfaz con otras cadenas de hamburguesas como Burger King o Mostaza Green, donde hemos observado una posibilidad de mejora en la gestión de la información por parte de Goiko.
 
 ![Desk Research](./Competitor_Analysis.png)
