@@ -88,11 +88,12 @@ La primera es Martin Williams, un turista británico que quiere pedir una hambur
 ![Persona1](P1/Persona1.png)
 
 
-### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+### 1.d User Journey Map 
 ----
+![Método UX](img/JourneyMap.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+En el primer Journey Map, Martin Williams intenta pedir una hamburguesa en la página, falla por distintos problemas relacionados a la gestión de los idiomas de la página, haciendo que se frustre poco a poco. Esta puede ser una situación bastante habitual entre los turistas.
+
 
 
 ### 1.e Usability Review
