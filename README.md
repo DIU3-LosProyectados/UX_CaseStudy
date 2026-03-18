@@ -87,7 +87,9 @@ La primera es Martin Williams, un turista británico que quiere pedir una hambur
 
 ![Persona1](P1/Persona1.png)
 
+La segunda es Francisco Ramírez
 
+[Persona2](P1/Persona2yJourneyMap.pdf)
 ### 1.d User Journey Map 
 ----
 ![Método UX](img/JourneyMap.png)
