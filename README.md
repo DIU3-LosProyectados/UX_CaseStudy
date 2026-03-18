@@ -40,7 +40,7 @@ Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat:     
- * :bust_in_silhouette:  Gabriel Pasco Fernández    :octocat:
+ * :bust_in_silhouette:  Gabriel Pasco Fernández    :octocat: https://github.com/epascog238
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
