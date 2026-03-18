@@ -27,10 +27,10 @@ Persona 1 - Martin Williams: un turista británico que se dedica a la mecánica,
 
 
 ### Persona 2-Francisco Ramírez
-![Persona 2](./Persona2yJourneyMap.pdf)
+[Persona 2](./Persona2yJourneyMap.pdf)
 
 ## Usability Review
-[Usability Review](./Usability-review-template)
+[Usability Review](./Usability-review-template-Usabilityscores.pdf)
 
 A raíz de nuestro análisis, también hemos evaluado distintos puntos de la interfaz de Goiko y varios aspectos relevantes a ella. Hemos notado que hay una gran inconsistencia en cuanto a la información que se muestra en los menús, además de otras notables inconsistencias en el apartado visual, problemas con el idioma, poca preocupación por nuevos usuarios (no se implementa ayuda explícita para ayudar a aquellos poco familiarizados con la interfaz, sobre todo teniendo en cuenta la sobrecarga de animaciones y efectos de la página) e información colocada de forma poco clara. Todo esto se ve reflejado en el usability review, donde se explican y se evalúan distitnos puntos acerca de la usabilidad de la interfaz de la página.
 
