@@ -35,9 +35,9 @@
 
 ### Prototipo Lo-FI Wireframe 
 
-* ![Wireframe landing]("./wireframe_landing.jpeg")
-* ![Wireframe comentarios]("./wireframe_comentarios.jpeg")
-* ![Wireframe login]("./wireframe_login.jpeg")
+* ![Wireframe landing](./wireframe_landing.jpeg)
+* ![Wireframe comentarios](./wireframe_comentarios.jpeg)
+* ![Wireframe login](./wireframe_login.jpeg)
 
 ### Conclusiones  
 
