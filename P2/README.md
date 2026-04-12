@@ -1,6 +1,9 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
+
+![Empathy Map Martin Williams]('./EmpathyCustomerMap_MW')
+
 * Malla receptora de información 
 * Mapa de empatía
 * Point of View 
