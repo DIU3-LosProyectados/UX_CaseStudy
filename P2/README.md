@@ -2,12 +2,13 @@
 
 ### Ideación 
 
-![Empathy Map Martin Williams](./EmpathyCustomerMap_MW.png)
-
 * Malla receptora de información 
 * Mapa de empatía
 * Point of View 
-
+####Mapa de empatia de Martin Williams
+![Empathy Map Martin Williams](./EmpathyCustomerMap_MW.png)
+###Mapa de empatia de Francisco Ramírez
+![Empathy Map Martin Williams](./EmpathyCustomerMap_FR.png)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
