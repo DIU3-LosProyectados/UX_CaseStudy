@@ -40,7 +40,8 @@
 * ![Wireframe login]("./wireframe_login.jpeg")
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+En conclusión, hemos trabajado acerca de nuestra propuesta de valor para el proyecto, que nos sirve como propósito a la hora de trabajar en las siguientes prácticas. Hemos establecido nuestra organización de la página web, tanto de los ficheros como usando wireframes para crear un prototipo acerca del diseño y las implementaciones de las nuevas funcionalidades, como es el caso del filtrado, o la localización de restaurantes.
 
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
