@@ -2,7 +2,7 @@
 
 ### Ideación 
 
-![Empathy Map Martin Williams]('./EmpathyCustomerMap_MW')
+![Empathy Map Martin Williams]("./EmpathyCustomerMap_MW.png")
 
 * Malla receptora de información 
 * Mapa de empatía
