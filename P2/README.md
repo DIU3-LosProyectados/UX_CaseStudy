@@ -15,7 +15,7 @@
 ### PROPUESTA DE VALOR
 
 * ScopeCanvas: En este Scope Canvas mostramos nuestra propuesta de valor para el proyecto, el cual es mejorar la visibilidad y resaltar la importancia de los distintos elementos de la carta en la web, cambiandola de lugar y agregando una serie de sistemas de filtrado y búsqueda de productos según distintos factores. Además mostramos las acciones que buscamos hagan los usuarios, como iniciar sesión o ver la carta, y métricas que nos ayudarían para ver el éxito del proyecto.
-![ScopeCanvas]("./ScopeCanvas.png")
+![ScopeCanvas](./ScopeCanvas.png)
 
 ### TASK ANALYSIS
 
