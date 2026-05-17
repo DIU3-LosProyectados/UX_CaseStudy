@@ -170,7 +170,7 @@ Término | Significado
 
 
 ### 3.a Moodboard
-![Método UX]("./P3/Moodboard.png")
+![Método UX](P3/Moodboard.png)
 ----- Hemos decidido usar una paleta que incluye colores con tonos crema y café para acentuar la profesionalidad del sitio, acompañado de tipografías reconocibles y cómodas a la vista.
 
 
