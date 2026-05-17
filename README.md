@@ -180,14 +180,12 @@ Término | Significado
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
-----
+---- Se pueden ver las distintas páginas del Mockup a continuación, para la interacción se puede entrar al proyecto de figma en la documentación de la práctica 3 o mediante la copia local en la misma carpeta. En ellos se encuentra la landing page, la página de registro, inicio de sesión, reserva, pedido y página de socios MyGoiko
 ![mockup](<P3/Mockup/Frame 1.png>)
 ![mockup](<P3/Mockup/Frame 2.png>)
 ![mockup](<P3/Mockup/Frame 3.png>)
 ![mockup](<P3/Mockup/Frame 4.png>)
 ![mockup](<P3/Mockup/Frame 5.png>)
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
 <br>
