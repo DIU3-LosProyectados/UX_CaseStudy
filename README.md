@@ -170,7 +170,7 @@ Término | Significado
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
+![Método UX](./P3/Moodboard.png)
 -----
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
