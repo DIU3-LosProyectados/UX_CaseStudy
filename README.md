@@ -181,11 +181,11 @@ Término | Significado
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-![mockup](P3/Mockup/Frame 1.png)
-![mockup](P3/Mockup/)
-![mockup](P3/Mockup/)
-![mockup](P3/Mockup/)
-![mockup](P3/Mockup/)
+![mockup](<P3/Mockup/Frame 1.png>)
+![mockup](<P3/Mockup/Frame 2.png>)
+![mockup](<P3/Mockup/Frame 3.png>)
+![mockup](<P3/Mockup/Frame 4.png>)
+![mockup](<P3/Mockup/Frame 5.png>)
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
