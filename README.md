@@ -15,36 +15,20 @@ Actualizado: 14/01/2026
 
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
------
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
+###Grupo: DIU3_Los_Proyectados.  Curso: 2025/26 
 
+Nombre del Proyecto: Goiko
 
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
-Grupo: DIU3_Los_Proyectados.  Curso: 2025/26 
-
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Descripción: Se trata de un local centrado principalmente en las hamburguesas y orientado a la población joven, diferenciandose de otras cadenas y restaurantes por su estética y valores gourmet dentro de la comida rápida y callejera.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 ![Logo DIU](/logotipo_diu_reduced.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Rubén Callejas Fernández    :octocat: https://github.com/RubenCF2505    
  * :bust_in_silhouette:  Gabriel Pasco Fernández    :octocat: https://github.com/epascog238
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
------ 
 
 <br>
 
@@ -171,7 +155,7 @@ Término | Significado
 
 ### 3.a Moodboard
 ![Método UX](P3/Moodboard.png)
------ Hemos decidido usar una paleta que incluye colores con tonos crema y café para acentuar la profesionalidad del sitio, acompañado de tipografías reconocibles y cómodas a la vista.
+----- Hemos decidido usar una paleta que incluye colores con tonos crema y café para acentuar la profesionalidad del sitio, acompañado de tipografías reconocibles y cómodas a la vista y usando el logo de Goiko que, aunque simple, cumple con su propósito.
 
 
 >>> Diseño visual con una guía de estilos visual (moodboard) 
@@ -180,8 +164,8 @@ Término | Significado
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
+![Método UX](P3/Mockup/Frame1.png) 
+---- Para el landing page hemos decidido crear una sección superior con la hamburguesa promocionada de la tempoorada y que al darle click se redirija a la carta. Nuestra prpuesta de valor se basaba en mejorar y dedicar una mayor importancia a la carta, por lo que decidimos introducirla justo debajo de la hamburguesa promocionada, pudiendo elegir entre distintos productos además de una sección con herramientas de filtrado de distinta índole. Posteriormente se puede encontrar una sección para el servicio de socios MyGoiko, un apartado para localizar el restaurante más cercano y una galería con distintas imagenes.
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
@@ -197,6 +181,11 @@ Término | Significado
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+![mockup](P3/Mockup/Frame 1.png)
+![mockup](P3/Mockup/)
+![mockup](P3/Mockup/)
+![mockup](P3/Mockup/)
+![mockup](P3/Mockup/)
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
