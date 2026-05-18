@@ -49,8 +49,7 @@ Miembros y nombre del equipo:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El estudio se centra en clientes potenciales y actuales interesados en la oferta gastronómica, se incluyen usuarios nuevos y recurrentes. Se utilizarán métodos cualitativos como test de usabilidad, entrevistas breves y análisis al comportamiento de navegación
 
 
 ### 1.b Competitive Analysis
@@ -95,30 +94,22 @@ Hemos evaluado y revisado distintos apartados de la usabilidad de la interfaz de
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+![feedback grid](P2/feedback_capture_grid.png)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![ScopeCanvas](P2/ScopeCanvas.png)
+
+En este Scope Canvas mostramos nuestra propuesta de valor para el proyecto, el cual es mejorar la visibilidad y resaltar la importancia de los distintos elementos de la carta en la web, cambiandola de lugar y agregando una serie de sistemas de filtrado y búsqueda de productos según distintos factores. Además mostramos las acciones que buscamos hagan los usuarios, como iniciar sesión o ver la carta, y métricas que nos ayudarían para ver el éxito del proyecto.
 
 
 
@@ -126,14 +117,14 @@ Hemos evaluado y revisado distintos apartados de la usabilidad de la interfaz de
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+!()[User task flow](P2/user_flow_v1)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![arquitectura de información](P2/Arquitectura_de_informacion_v1.png)
 
 Término | Significado     
 | ------------- | -------
@@ -144,7 +135,9 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+![wireframe](P2/wireframe_landing)
+![wireframe](P2/wireframe_login)
+![wireframe](P2/wireframe_paginaUsuario)
 
 <br>
 
@@ -158,16 +151,10 @@ Término | Significado
 ----- Hemos decidido usar una paleta que incluye colores con tonos crema y café para acentuar la profesionalidad del sitio, acompañado de tipografías reconocibles y cómodas a la vista y usando el logo de Goiko que, aunque simple, cumple con su propósito.
 
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
 
 ### 3.b Landing Page
 ![Método UX](P3/Mockup/Frame1.png) 
 ---- Para el landing page hemos decidido crear una sección superior con la hamburguesa promocionada de la tempoorada y que al darle click se redirija a la carta. Nuestra prpuesta de valor se basaba en mejorar y dedicar una mayor importancia a la carta, por lo que decidimos introducirla justo debajo de la hamburguesa promocionada, pudiendo elegir entre distintos productos además de una sección con herramientas de filtrado de distinta índole. Posteriormente se puede encontrar una sección para el servicio de socios MyGoiko, un apartado para localizar el restaurante más cercano y una galería con distintas imagenes.
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
