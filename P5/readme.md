@@ -12,6 +12,8 @@ Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu dise
 
 En la tabla a continuación se muestra información acerca de los usuarios que realizarán las pruebas:
 
+La prueba para comprobar la usabilidad del sitio consiste en que los distintos usuarios intentarán realizar un pedido en la página.
+
 | id_participante | edad | genero | competencia digital | gafas/lentillas | Rol |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | 20 | Masculino | Alta | No | Estudiante |
