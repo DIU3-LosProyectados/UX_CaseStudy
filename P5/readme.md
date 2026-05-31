@@ -8,6 +8,8 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 
 La prueba para comprobar la usabilidad del sitio consiste en que los distintos usuarios intentarán realizar un pedido en la página, en este caso, pedirán una hamburguesa kevin bacon.
 
+Todos los usuarios lo han evaluado con una resolución de 1920x1080 y no han tenido conocimientos previos acerca de las web.
+
 | id_participante | edad | genero | competencia digital | gafas/lentillas | Rol |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 06 | 20 | Masculino | Alta | No | Estudiante |
