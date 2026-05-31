@@ -1,9 +1,0 @@
-"username": "Participante_comp_1",
-    "edad": "21",
-    "sexo": "M",
-    "grupo": "B",
-    "lugar": "UGR-DIU",
-    "fecha": "2026-05-30",
-    "hora_fin": "02:04:07",
-    "timestamp": 1780185847342,
-    "sitioFinal": 5
