@@ -96,6 +96,40 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Me sentí muy confiado en el manejo del website | | | | | ✓ |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
+### **Desglose de Puntuaciones por Participante**
+
+* **Usuario 01:**
+  * *Impares:* P1(3->2), P3(5->4), P5(4->3), P7(4->3), P9(4->3) = **15**
+  * *Pares:* P2(2->3), P4(1->4), P6(2->3), P8(1->4), P10(1->4) = **18**
+  * *Cálculo:* (15 + 18) * 2.5 = **82.5**
+
+* **Usuario 02:**
+  * *Impares:* P1(2->1), P3(4->3), P5(5->4), P7(4->3), P9(5->4) = **15**
+  * *Pares:* P2(2->3), P4(1->4), P6(4->1), P8(1->4), P10(1->4) = **16**
+  * *Cálculo:* (15 + 16) * 2.5 = **77.5**
+
+* **Usuario 03:**
+  * *Impares:* P1(4->3), P3(4->3), P5(4->3), P7(3->2), P9(4->3) = **14**
+  * *Pares:* P2(3->2), P4(2->3), P6(2->3), P8(2->3), P10(1->4) = **15**
+  * *Cálculo:* (14 + 15) * 2.5 = **72.5**
+
+* **Usuario 04:**
+  * *Impares:* P1(3->2), P3(5->4), P5(5->4), P7(5->4), P9(5->4) = **18**
+  * *Pares:* P2(1->4), P4(1->4), P6(1->4), P8(1->4), P10(1->4) = **20**
+  * *Cálculo:* (18 + 20) * 2.5 = **95.0**
+
+---
+
+### **Tabla Resumen de Resultados**
+
+| id_participante | Total Impares | Total Pares | Suma Bruta | Puntuación SUS Final |
+| :--- | :---: | :---: | :---: | :---: |
+| **01** | 15 | 18 | 33 | **82.5** |
+| **02** | 15 | 16 | 31 | **77.5** |
+| **03** | 14 | 15 | 29 | **72.5** |
+| **04** | 18 | 20 | 38 | **95.0** |
+| **Promedio Global** | | | | **81.88** |
+
 ## Conclusiones del caso B
 
 Observando los mapas de calor, podemos ver que en la landing page la interacción se concentra en su totalidad en la mitad superior de la página, siendo en el logo, en la navegación o en la parte central dependiendo del usuario. En el resto de páginas al igual que en la landing page, podemos observar que se le ha prestado nula atención al footer y al botón de contacto. En el caso de esta tarea llevada a cabo por los usuarios, podemos ver que la mayoria de los participantes han accedido a la carta, donde podemos observar que la concentración de las miradas se orienta a la navegación de la carta y a las imagenes de los productos. En el caso de la página de realizar el pedido, se concentran en el formulario de pedido, aunque algunos usuarios también han mirado al header.
