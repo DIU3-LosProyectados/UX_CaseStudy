@@ -1,4 +1,4 @@
-## Practica 5: Análisis de usabilidad 
+## Practica 5: Reporte de usabilidad 
 
 ## Caso A
 
