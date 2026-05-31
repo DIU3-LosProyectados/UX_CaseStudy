@@ -20,4 +20,18 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 
 **Usuario 01**
 
-![.](<>)
+![.](>./info_usuarios/u1/1.jpg>)
+![.](>./info_usuarios/u1/2.jpg>)
+![.](>./info_usuarios/u1/3.jpg>)
+
+**Usuario 02**
+
+![.](>./info_usuarios/u2/1.jpg>)
+![.](>./info_usuarios/u2/2.jpg>)
+![.](>./info_usuarios/u2/3.jpg>)
+
+**Usuario 03**
+
+![.](>./info_usuarios/u3/1.jpg>)
+![.](>./info_usuarios/u3/2.jpg>)
+![.](>./info_usuarios/u3/3.jpg>)
