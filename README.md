@@ -40,10 +40,6 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
@@ -141,8 +137,6 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](P3/Moodboard.png)
@@ -186,19 +180,26 @@ Término | Significado
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| id_participante | edad | genero | competencia digital | gafas/lentillas | Rol |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | 20 | Masculino | Alta | No | Estudiante |
+| 02 | 21 | Masculino | Alta | No | Estudiante |
+| 03 | 46 | Femenino | Media | Sí | Ama de casa |
+| 04 | 20 | Masculino | Alta | Sí | Natural | Estudiante |
+| 05 | 48 | Femenino | Baja | No  | Profesora |
+| 06 | 20 | Masculino | Alta | No | Estudiante |
+| 07 | 50 | Masculino | Baja | Si | Comercial |
+| 08 | 21 | Masculino | Alta | No | Estudiante |
+| 09 | 23 | Femenino | Media | Sí | Estudiante |
+| 010 | 20 | Masculino | Alta | Sí | Estudiante |
+
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para la prueba de usabilidad, los usuarios deben de elegir un producto de la carta y realizar un pedido de dicho producto.
 
 
 
@@ -206,39 +207,50 @@ Término | Significado
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+| Caso A (Participante) | Puntuación SUS | Caso B (Participante) | Puntuación SUS |
+| :--- | :---: | :--- | :---: |
+| **06** | 87.5 | **01** | 82.5 |
+| **07** | 77.5 | **02** | 77.5 |
+| **08** | 77.5 | **03** | 72.5 |
+| **09** | 82.5 | **04** | 95.0 |
+| **010** | 92.5 | **05** | 80.0 |
+| **Promedio Global** | **83.50** | **Promedio Global** | **81.50** |
+| **Calificación** | **A (Excelente)** | **Calificación** | **A (Excelente)** |
+
+ 
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Luego de realizar el reporte de usabilidad y calcular la nota de los cuestionarios sus, se ha determinado que el caso A (Goiko) es más usable que el caso B.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Se ha usado la herramienta GazeMapping para navegar a través de las páginas, estableciendo puntos de interés y recogiendo los clicks del usuario, además de mediante webcam captar la mirada para generar un mapa de calor o heatmap que contiene la información acerca de donde ha mirado el usuario.
 
 
 ![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Una imagen de un heatmap del caso A
+
+![](<./P5/info_usuarios/u7/1.jpg>)
 
 
-### 4.f Usability Report de B
+### 4.f Accesibility Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+* **Estado General:** Cumplimiento **parcial** de la normativa WCAG 2.2 Nivel AA. Valoración estimada de **7/10**. 
+* **Problemas Críticos y Altos:**
+  * Contraste insuficiente entre texto y fondo.
+  * Imágenes sin texto alternativo (`alt`).
+  * Navegación por teclado deficiente y falta de indicadores de foco visibles.
+* **Problemas Medios y Bajos:** * Tipografía que dificulta la lectura, jerarquía de encabezados incorrecta y falta de uso de etiquetas semánticas (HTML5) y atributos ARIA.
+* **Próximos pasos prioritarios:** Ajustar los colores para alcanzar un contraste mínimo de 4.5:1, añadir descripciones a las imágenes y garantizar que todo el sitio sea operable usando únicamente el teclado.
 
 
 
@@ -251,14 +263,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+Para exportar la página hemos usado figma make, con la que además la hemos hecho funcional.
 
 
 <br>
@@ -266,7 +271,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+En conclusión, estas prácticas han resultado bastante útiles para aprender acerca del proceso de diseño de interfaces de usuario y frontend web, no solo bajo el punto de vista técnico o orientado a conocer lenguajes de programación o frameworks como React, sino desde conceptos abstractos como es el caso de los documentos de diseño, análisis de competidores y obtención de datos de potenciales usuarios y la forma de medir la usabilidad de una aplicación y poder cuantificarla mediante cuestionario SUS. También hemos aprendido a usar figma, una herramienta muy poderosa en cuanto se trata de diseño, además de figma make donde hemos sido capaces de crear páginas web funcionales a partir de nuestro diseño mediante vibe coding, así cerrando el ciclo del concepto hasta el producto final.
 
 
 
