@@ -156,7 +156,9 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 - Aceptabilidad: **Aceptable**
 - Calificación: **A**
 
+##Conclusiones del caso A
 
+Podemos observar como la mirada de los usuarios se va hacia el header y la carta, lo que correspondia con nuestra propuesta de valor, además también se ha prestado bastante importancia a la barra de los filtros. Al igual que el caso B, el footer es casi completamente ignorado, siendo la última parte interesante para el usuario promedio la galería. En cuanto a la página de pedidos, las miradas se centran en el header, en el formulario de pedido y en los productos que se van a pedir, al tener la carta en el landing page el usuario se ahorra tener que ir a una página exclusiva de la carta, lo cual consideramos es una ventaja respecto al caso B.
 
 
 ---
