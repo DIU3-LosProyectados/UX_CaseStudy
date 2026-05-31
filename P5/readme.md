@@ -6,6 +6,7 @@
 - Autoevaluacion del diseño 
 Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
 - Conclusiones
+## Caso B
 
 ### Participantes
 
