@@ -328,3 +328,101 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 ## Conclusiones del caso B
 
 Observando los mapas de calor, podemos ver que en la landing page la interacción se concentra en su totalidad en la mitad superior de la página, siendo en el logo, en la navegación o en la parte central dependiendo del usuario. En el resto de páginas al igual que en la landing page, podemos observar que se le ha prestado nula atención al footer y al botón de contacto. En el caso de esta tarea llevada a cabo por los usuarios, podemos ver que la mayoria de los participantes han accedido a la carta, donde podemos observar que la concentración de las miradas se orienta a la navegación de la carta y a las imagenes de los productos. En el caso de la página de realizar el pedido, se concentran en el formulario de pedido, aunque algunos usuarios también han mirado al header.
+
+
+# [cite_start]INFORME DE ACCESIBILIDAD WEB [cite: 1]
+
+## [cite_start]1. Ficha Técnica del Informe [cite: 2]
+* [cite_start]**Nombre del proyecto:** GOIKΟ [cite: 3]
+* [cite_start]**Normativa de referencia:** WCAG 2.2 Nivel AA (UNE-EN 301549) [cite: 4]
+* [cite_start]**Herramientas utilizadas:** Lighthouse, WAVE y revisión manual [cite: 5]
+* [cite_start]**Fecha de la auditoría:** 31/05/2025 [cite: 6]
+
+---
+
+## [cite_start]2. Puntuaciones Globales (Métricas Automáticas) [cite: 7]
+[cite_start]La evaluación se realizó utilizando herramientas automáticas de accesibilidad y revisión visual manual. [cite: 8]
+
+### [cite_start]Valoración General de Accesibilidad [cite: 9]
+[cite_start]El sitio presenta una estructura visual moderna y una navegación sencilla. [cite: 10] [cite_start]Sin embargo, se identifican posibles incidencias relacionadas con contraste, accesibilidad semántica y navegación mediante teclado. [cite: 11] [cite_start]El cumplimiento general puede considerarse parcial respecto a WCAG 2.2 Nivel AA. [cite: 12]
+
+---
+
+## [cite_start]3. Análisis por Principios (POUR) [cite: 13]
+
+### [cite_start]A. Perceptible [cite: 14]
+* [cite_start]**Hallazgo 1: Posibles problemas de contraste entre texto y fondo** [cite: 15]
+  * [cite_start]**Criterio WCAG incumplido:** 1.4.3 - Contraste mínimo. [cite: 16]
+  * [cite_start]**Impacto:** Los usuarios con baja visión pueden tener dificultades para distinguir determinados elementos visuales y textos. [cite: 17]
+  * [cite_start]**Recomendación:** Verificar todas las combinaciones de color mediante herramientas de contraste y asegurar una relación mínima de 4.5:1. [cite: 18]
+
+* [cite_start]**Hallazgo 2: Imágenes sin descripción alternativa verificable** [cite: 19]
+  * [cite_start]**Criterio WCAG incumplido:** 1.1.1 Contenido no textual. [cite: 20]
+  * [cite_start]**Impacto:** Los usuarios de lectores de pantalla podrían no comprender el contenido visual. [cite: 21]
+  * [cite_start]**Recomendación:** Añadir atributos `alt` descriptivos a las imágenes relevantes y marcar las decorativas con `alt=""`. [cite: 22]
+
+### [cite_start]B. Operable [cite: 23]
+* [cite_start]**Hallazgo 3: Navegación mediante teclado no completamente verificable** [cite: 24]
+  * [cite_start]**Criterio WCAG incumplido:** 2.1.1 - Teclado. [cite: 25]
+  * [cite_start]**Impacto:** Algunos usuarios podrían no poder acceder correctamente a elementos interactivos utilizando únicamente el teclado. [cite: 26]
+  * [cite_start]**Recomendación:** Comprobar que todos los enlaces, botones y componentes interactivos sean accesibles mediante Tab y Enter. [cite: 27]
+
+* [cite_start]**Hallazgo 4: Indicador de foco insuficiente o poco visible** [cite: 28]
+  * [cite_start]**Criterio WCAG incumplido:** 2.4.7 - Foco visible. [cite: 29]
+  * [cite_start]**Impacto:** Los usuarios pueden perder la referencia de navegación dentro de la página. [cite: 30]
+  * [cite_start]**Recomendación:** Aplicar estilos visuales claros para `:focus` y `:focus-visible`. [cite: 31]
+
+### [cite_start]C. Comprensible [cite: 32]
+* [cite_start]**Hallazgo 5: Tipografía decorativa con posible impacto en la legibilidad** [cite: 33]
+  * [cite_start]**Criterio WCAG relacionado:** 3.1 y 3.2 Comprensibilidad. [cite: 34]
+  * [cite_start]**Impacto:** Algunos usuarios con dificultades cognitivas o dislexia pueden requerir un mayor esfuerzo de lectura. [cite: 35]
+  * [cite_start]**Recomendación:** Mejorar tamaño, espaciado e interlineado de los textos. [cite: 36]
+
+* [cite_start]**Hallazgo 6: Estructura jerárquica de encabezados no verificable** [cite: 37]
+  * [cite_start]**Criterio WCAG incumplido:** 1.3.1 - Información y relaciones. [cite: 38]
+  * [cite_start]**Impacto:** Los lectores de pantalla podrían no interpretar correctamente la organización del contenido. [cite: 39]
+  * [cite_start]**Recomendación:** Utilizar encabezados semánticos (`h1`, `h2`, `h3`) siguiendo una jerarquía lógica. [cite: 40]
+
+### [cite_start]D. Robusto [cite: 41]
+* [cite_start]**Hallazgo 7: Etiquetas accesibles y roles ARIA no verificables** [cite: 42]
+  * [cite_start]**Criterio WCAG incumplido:** 4.1.2 Nombre, función y valor. [cite: 43]
+  * [cite_start]**Impacto:** Las tecnologías de asistencia pueden no identificar correctamente algunos elementos interactivos. [cite: 44]
+  * [cite_start]**Recomendación:** Revisar la implementación HTML y añadir atributos ARIA cuando sea necesario. [cite: 45]
+
+* [cite_start]**Hallazgo 8: Posible uso excesivo de contenedores genéricos** [cite: 46]
+  * [cite_start]**Criterio WCAG incumplido:** 1.3.1 y 4.1.2. [cite: 47]
+  * [cite_start]**Impacto:** Los lectores de pantalla pueden perder información estructural importante. [cite: 48]
+  * [cite_start]**Recomendación:** Utilizar etiquetas semánticas como `main`, `nav`, `header`, `section` y `footer`. [cite: 49]
+
+---
+
+## [cite_start]4. Tabla de Hallazgos y Prioridades [cite: 50]
+
+| ID | Prioridad | Criterio WCAG | Error detectado | Recomendación Técnica |
+| :--- | :--- | :--- | :--- | :--- |
+| **ACC-01** | Crítica | 1.4.3 Contraste mínimo | Contraste potencialmente insuficiente | [cite_start]Ajustar colores para alcanzar 4.5:1 [cite: 51] |
+| **ACC-02** | Alta | 1.1.1 Contenido no textual | Imágenes sin texto alternativo verificable | [cite_start]Añadir atributos alt descriptivos [cite: 51] |
+| **ACC-03** | Alta | 2.1.1 Teclado | Navegación por teclado no verificable | [cite_start]Garantizar acceso mediante teclado [cite: 51] |
+| **ACC-04** | Alta | 2.4.7 Foco visible | Indicador de foco poco visible | [cite_start]Implementar estilos visibles para: focus [cite: 51] |
+| **ACC-05** | Media | 1.3.1 Información y relaciones | Jerarquía de encabezados no verificable | [cite_start]Revisar estructura semántica [cite: 51] |
+| **ACC-06** | Media | Comprensibilidad | Tipografía con posible impacto en la lectura | [cite_start]Mejorar tamaño e interlineado [cite: 51] |
+| **ACC-07** | Media | 4.1.2 Nombre, función y valor | Roles accesibles no verificables | [cite_start]Revisar atributos ARIA [cite: 51] |
+| **ACC-08** | Baja | Semántica HTML | Uso potencial de contenedores genéricos | [cite_start]Implementar etiquetas semánticas [cite: 51] |
+
+---
+
+## [cite_start]5. Conclusiones y Declaración de Conformidad [cite: 52]
+
+### [cite_start]Declaración de conformidad [cite: 53]
+[cite_start]El sitio presenta un cumplimiento parcial de las WCAG 2.2 Nivel AA. [cite: 54] [cite_start]Aunque visualmente resulta claro y atractivo, requiere mejoras relacionadas con contraste, navegación accesible, semántica HTML y compatibilidad con tecnologías de asistencia. [cite: 55]
+
+### [cite_start]¿Es el sitio accesible? [cite: 56]
+[cite_start]Actualmente el sitio puede considerarse parcialmente accesible, pero no cumple completamente con los requisitos del nivel AA. [cite: 57]
+
+### [cite_start]Próximos pasos [cite: 58]
+1. [cite_start]Verificar y corregir problemas de contraste. [cite: 59]
+2. [cite_start]Añadir textos alternativos y etiquetas accesibles. [cite: 60]
+3. [cite_start]Mejorar la navegación mediante teclado y los indicadores de foco. [cite: 61]
+
+### [cite_start]Valoración final [cite: 62]
+* [cite_start]**Nivel estimado de accesibilidad:** 7/10 [cite: 63]
