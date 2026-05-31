@@ -36,8 +36,8 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 ![.](<./info_usuarios/u3/2.jpg>)
 ![.](<./info_usuarios/u3/3.jpg>)
 
-**Usuario 03**
+**Usuario 04**
 
-![.](>./info_usuarios/u3/1.jpg>)
-![.](>./info_usuarios/u3/2.jpg>)
-![.](>./info_usuarios/u3/3.jpg>)
+![.](>./info_usuarios/u4/1.jpg>)
+![.](>./info_usuarios/u4/2.jpg>)
+![.](>./info_usuarios/u4/3.jpg>)
