@@ -414,4 +414,15 @@ El sitio presenta una estructura visual moderna y una navegación sencilla. Sin 
 ## 5. Conclusiones y Declaración de Conformidad
 
 ### Declaración de conformidad
-El sitio presenta un
+El sitio presenta un cumplimiento parcial de las WCAG 2.2 Nivel AA. Aunque visualmente resulta claro y atractivo, requiere mejoras relacionadas con contraste, navegación accesible, semántica HTML y compatibilidad con tecnologías de asistencia.
+
+### ¿Es el sitio accesible?
+Actualmente el sitio puede considerarse parcialmente accesible, pero no cumple completamente con los requisitos del nivel AA.
+
+### Próximos pasos
+1. Verificar y corregir problemas de contraste.
+2. Añadir textos alternativos y etiquetas accesibles.
+3. Mejorar la navegación mediante teclado y los indicadores de foco.
+
+### Valoración final
+* **Nivel estimado de accesibilidad:** 7/10
