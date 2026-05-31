@@ -38,5 +38,5 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 
 **Usuario 04**
 
-![.](>./info_usuarios/u4/1.jpg>)
-![.](>./info_usuarios/u4/2.jpg>)
+![.](<./info_usuarios/u4/1.jpg>)
+![.](<./info_usuarios/u4/2.jpg>)
