@@ -21,6 +21,8 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | 03 | 46 | Femenino | Media | Sí | Ama de casa |
 | 04 | 20 | Masculino | Alta | Sí | Natural | Estudiante |
 
+---
+
 ### **Usuario 01**
 
 ![.](<./info_usuarios/u1/1.jpg>)
@@ -40,6 +42,8 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Me sentí muy confiado en el manejo del website | | | | ✓ | |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
+---
+
 ### **Usuario 02**
 
 ![.](<./info_usuarios/u2/1.jpg>)
@@ -58,6 +62,8 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Encontré el website muy grande al recorrerlo | ✓ | | | | |
 | Me sentí muy confiado en el manejo del website | | | | | ✓ |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
+
+---
 
 ### **Usuario 03**
 
@@ -122,13 +128,13 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 
 ### **Tabla Resumen de Resultados**
 
-| id_participante | Total Impares | Total Pares | Suma Bruta | Puntuación SUS Final |
+| id_participante | Total Impares | Total Pares | Suma | Puntuación SUS |
 | :--- | :---: | :---: | :---: | :---: |
 | **01** | 15 | 18 | 33 | **82.5** |
 | **02** | 15 | 16 | 31 | **77.5** |
 | **03** | 14 | 15 | 29 | **72.5** |
 | **04** | 18 | 20 | 38 | **95.0** |
-| **Promedio Global** | | | | **81.88** |
+| **Promedio** | | | | **81.88** |
 
 ## Conclusiones del caso B
 
