@@ -62,8 +62,34 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 ![.](<./info_usuarios/u3/2.jpg>)
 ![.](<./info_usuarios/u3/3.jpg>)
 
+| PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Creo que me gustará visitar con frecuencia este website | | | | ✓ | |
+| Encontré el website innecesariamente complejo | | | ✓ | | |
+| Pensé que era fácil utilizar este website | | | | ✓ | |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | | ✓ | | | |
+| Encontré las funciones del website bastante bien integradas | | | | ✓ | |
+| Pensé que había demasiada inconsistencia en el website | | ✓ | | | |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | ✓ | | |
+| Encontré el website muy grande al recorrerlo | | ✓ | | | |
+| Me sentí muy confiado en el manejo del website | | | | ✓ | |
+| Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
+
 **Usuario 04**
 
 ![.](<./info_usuarios/u4/1.jpg>)
 ![.](<./info_usuarios/u4/2.jpg>)
+
+| PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Creo que me gustará visitar con frecuencia este website | | | ✓ | | |
+| Encontré el website innecesariamente complejo | ✓ | | | | |
+| Pensé que era fácil utilizar este website | | | | | ✓ |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | ✓ | | | | |
+| Encontré las funciones del website bastante bien integradas | | | | | ✓ |
+| Pensé que había demasiada inconsistencia en el website | ✓ | | | | |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | | ✓ |
+| Encontré el website muy grande al recorrerlo | ✓ | | | | |
+| Me sentí muy confiado en el manejo del website | | | | | ✓ |
+| Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
