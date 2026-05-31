@@ -259,7 +259,28 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Me sentí muy confiado en el manejo del website | | | | | ✓ |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
-### **Desglose de Puntuaciones por Participante**
+**Usuario 05**
+
+![.](<./info_usuarios/u5/1.jpg>)
+![.](<./info_usuarios/u5/2.jpg>)
+![.](<./info_usuarios/u5/3.jpg>)
+
+| PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Creo que me gustará visitar con frecuencia este website | | | | ✓ | |
+| Encontré el website innecesariamente complejo | | | ✓ | | |
+| Pensé que era fácil utilizar este website | | | | ✓ | |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | | ✓ | | | |
+| Encontré las funciones del website bastante bien integradas | | | | | ✓ |
+| Pensé que había demasiada inconsistencia en el website | ✓ | | | | |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | ✓|  |
+| Encontré el website muy grande al recorrerlo | ✓ | | | | |
+| Me sentí muy confiado en el manejo del website | | | | ✓ | |
+| Necesito aprender muchas cosas antes de manejarse en el website | | ✓ | | | |
+
+---
+
+### **Desglose de Puntuaciones por Participante (Caso B)**
 
 * **Usuario 01:**
   * *Impares:* P1(3->2), P3(5->4), P5(4->3), P7(4->3), P9(4->3) = **15**
@@ -281,17 +302,23 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
   * *Pares:* P2(1->4), P4(1->4), P6(1->4), P8(1->4), P10(1->4) = **20**
   * *Cálculo:* (18 + 20) * 2.5 = **95.0**
 
+* **Usuario 05:**
+  * *Impares:* P1(4->3), P3(4->3), P5(5->4), P7(4->3), P9(4->3) = **16**
+  * *Pares:* P2(3->2), P4(2->3), P6(1->4), P8(1->4), P10(2->3) = **16**
+  * *Cálculo:* (16 + 16) * 2.5 = **80.0**
+
 ---
 
-### **Tabla Resumen de Resultados**
+### **Tabla Resumen de Resultados (Caso B)**
 
-| id_participante | Total Impares | Total Pares | Suma | Puntuación SUS |
+| id_participante | Total Impares | Total Pares | Suma Bruta | Puntuación SUS Final |
 | :--- | :---: | :---: | :---: | :---: |
 | **01** | 15 | 18 | 33 | **82.5** |
 | **02** | 15 | 16 | 31 | **77.5** |
 | **03** | 14 | 15 | 29 | **72.5** |
 | **04** | 18 | 20 | 38 | **95.0** |
-| **Promedio** | | | | **81.88** |
+| **05** | 16 | 16 | 32 | **80.0** |
+| **Promedio Global** | | | | **81.50** |
 
 - Aceptabilidad: **Aceptable**
 - Calificación: **A**
