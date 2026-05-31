@@ -13,7 +13,7 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | 06 | 20 | Masculino | Alta | No | Estudiante |
 | 07 | 50 | Masculino | Baja | Si | Comercial |
 | 09 | 23 | Femenino | Media | Sí | Estudiante |
-| 010 | 20 | Masculino | Alta | Sí | Natural | Estudiante |
+| 010 | 20 | Masculino | Alta | Sí | Estudiante |
 
 ---
 
@@ -179,6 +179,7 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | 02 | 21 | Masculino | Alta | No | Estudiante |
 | 03 | 46 | Femenino | Media | Sí | Ama de casa |
 | 04 | 20 | Masculino | Alta | Sí | Natural | Estudiante |
+| 05 | 48 | Femenino | Baja | No  | Profesora |
 
 ---
 
