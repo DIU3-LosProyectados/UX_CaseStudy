@@ -1,11 +1,6 @@
-## Practica 5: Exportación + Documentación - entregables 
+## Practica 5: Análisis de usabilidad 
 
 
-- Exportación a HTML/React
-- Documentación con Storybook
-- Autoevaluacion del diseño 
-Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
-- Conclusiones
 ## Caso B
 
 ### Participantes
@@ -135,6 +130,9 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | **03** | 14 | 15 | 29 | **72.5** |
 | **04** | 18 | 20 | 38 | **95.0** |
 | **Promedio** | | | | **81.88** |
+
+- Aceptabilidad: **Aceptable**
+- Calificación: **A**
 
 ## Conclusiones del caso B
 
