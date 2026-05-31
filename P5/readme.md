@@ -24,15 +24,15 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 
 | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| Creo que me gustará visitar con frecuencia este website | | | | ✓ |  |
+| Creo que me gustará visitar con frecuencia este website | | | | | ✓ |
 | Encontré el website innecesariamente complejo | | ✓ | | | |
 | Pensé que era fácil utilizar este website | | | | | ✓ |
 | Creo que necesitaría del apoyo de un experto para recorrer el website | ✓ | | | | |
 | Encontré las funciones del website bastante bien integradas | | | | | ✓ |
 | Pensé que había demasiada inconsistencia en el website | | ✓ | | | |
-| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | ✓ | |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | | ✓ |
 | Encontré el website muy grande al recorrerlo | | | | ✓ | |
-| Me sentí muy confiado en el manejo del website | | | | ✓ | |
+| Me sentí muy confiado en el manejo del website | | | | | ✓ |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
 ---
@@ -52,7 +52,7 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Pensé que había demasiada inconsistencia en el website | ✓ | | | | |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | ✓ | | |
 | Encontré el website muy grande al recorrerlo | | | | ✓ | |
-| Me sentí muy confiado en el manejo del website | | | ✓ | | |
+| Me sentí muy confiado en el manejo del website | | | | ✓ | |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
 ---
@@ -71,7 +71,7 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | Encontré las funciones del website bastante bien integradas | | | | ✓ | |
 | Pensé que había demasiada inconsistencia en el website | ✓ | | | | |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | ✓ | | |
-| Encontré el website muy grande al recorrerlo | | | ✓ | | |
+| Encontré el website muy grande al recorrerlo | | ✓ | | | |
 | Me sentí muy confiado en el manejo del website | | | | ✓ | |
 | Necesito aprender muchas cosas antes de manejarse en el website | | ✓ | | | |
 
