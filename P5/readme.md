@@ -116,19 +116,19 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 ### **Desglose de Puntuaciones por Participante (Caso A)**
 
 * **Usuario 06:**
-  * *Impares:* P1(4->3), P3(5->4), P5(5->4), P7(4->3), P9(4->3) = **17**
+  * *Impares:* P1(5->4), P3(5->4), P5(5->4), P7(5->4), P9(5->4) = **20**
   * *Pares:* P2(2->3), P4(1->4), P6(2->3), P8(4->1), P10(1->4) = **15**
-  * *Cálculo:* (17 + 15) * 2.5 = **80.0**
+  * *Cálculo:* (20 + 15) * 2.5 = **87.5**
 
 * **Usuario 07:**
-  * *Impares:* P1(4->3), P3(4->3), P5(5->4), P7(3->2), P9(3->2) = **14**
+  * *Impares:* P1(4->3), P3(4->3), P5(5->4), P7(3->2), P9(4->3) = **15**
   * *Pares:* P2(2->3), P4(1->4), P6(1->4), P8(4->1), P10(1->4) = **16**
-  * *Cálculo:* (14 + 16) * 2.5 = **75.0**
+  * *Cálculo:* (15 + 16) * 2.5 = **77.5**
 
 * **Usuario 08:**
   * *Impares:* P1(3->2), P3(5->4), P5(4->3), P7(3->2), P9(4->3) = **14**
-  * *Pares:* P2(1->4), P4(2->3), P6(1->4), P8(3->2), P10(2->3) = **16**
-  * *Cálculo:* (14 + 16) * 2.5 = **75.0**
+  * *Pares:* P2(1->4), P4(2->3), P6(1->4), P8(2->3), P10(2->3) = **17**
+  * *Cálculo:* (14 + 17) * 2.5 = **77.5**
 
 * **Usuario 09:**
   * *Impares:* P1(4->3), P3(4->3), P5(3->2), P7(5->4), P9(5->4) = **16**
@@ -146,17 +146,15 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 
 | id_participante | Total Impares | Total Pares | Suma Bruta | Puntuación SUS Final |
 | :--- | :---: | :---: | :---: | :---: |
-| **06** | 17 | 15 | 32 | **80.0** |
-| **07** | 14 | 16 | 30 | **75.0** |
-| **08** | 14 | 16 | 30 | **75.0** |
+| **06** | 20 | 15 | 35 | **87.5** |
+| **07** | 15 | 16 | 31 | **77.5** |
+| **08** | 14 | 17 | 31 | **77.5** |
 | **09** | 16 | 17 | 33 | **82.5** |
 | **010** | 17 | 20 | 37 | **92.5** |
-| **Promedio Global** | | | | **81.00** |
+| **Promedio Global** | | | | **83.50** |
 
 - Aceptabilidad: **Aceptable**
 - Calificación: **A**
-
-## Conclusiones del caso A
 
 
 
