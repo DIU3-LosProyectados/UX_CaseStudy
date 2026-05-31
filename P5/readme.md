@@ -95,8 +95,8 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 
 **Usuario 010**
 
-![.](<./info_usuarios/u010/1.jpg>)
-![.](<./info_usuarios/u010/2.jpg>)
+![.](<./info_usuarios/u10/1.jpg>)
+![.](<./info_usuarios/u10/2.jpg>)
 
 | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
