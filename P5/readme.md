@@ -93,3 +93,6 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 | Me sentí muy confiado en el manejo del website | | | | | ✓ |
 | Necesito aprender muchas cosas antes de manejarse en el website | ✓ | | | | |
 
+## Conclusiones del caso B
+
+Observando los mapas de calor, podemos ver que en la landing page la interacción se concentra en su totalidad en la mitad superior de la página, siendo en el logo, en la navegación o en la parte central dependiendo del usuario. En el resto de páginas al igual que en la landing page, podemos observar que se le ha prestado nula atención al footer y al botón de contacto. En el caso de esta tarea llevada a cabo por los usuarios, podemos ver que la mayoria de los participantes han accedido a la carta, donde podemos observar que la concentración de las miradas se orienta a la navegación de la carta y a las imagenes de los productos. En el caso de la página de realizar el pedido, se concentran en el formulario de pedido, aunque algunos usuarios también han mirado al header.
