@@ -17,3 +17,7 @@ En la tabla a continuación se muestra información acerca de los usuarios que r
 | 02 | 21 | Masculino | Alta | No | Estudiante |
 | 03 | 46 | Femenino | Media | Sí | Ama de casa |
 | 04 | 20 | Masculino | Alta | Sí | Natural | Estudiante |
+
+**Usuario 01**
+
+![.](<>)
