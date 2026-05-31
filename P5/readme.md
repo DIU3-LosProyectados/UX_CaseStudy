@@ -12,6 +12,7 @@ La prueba para comprobar la usabilidad del sitio consiste en que los distintos u
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 06 | 20 | Masculino | Alta | No | Estudiante |
 | 07 | 50 | Masculino | Baja | Si | Comercial |
+| 08 | 21 | Masculino | Alta | No | Estudiante |
 | 09 | 23 | Femenino | Media | Sí | Estudiante |
 | 010 | 20 | Masculino | Alta | Sí | Estudiante |
 
